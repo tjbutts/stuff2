@@ -1,0 +1,6 @@
+git ignore commands # This .gitignore file specifies files and directories that should be ignored by Git.
+do_not_commit/
+my_private_data.txt
+*.bad
+docs/*_temp*
+
